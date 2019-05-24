@@ -1,4 +1,6 @@
-Integrantes: Ricardo Tiga Molina, Adriana Marcela BUitrago Ardila 
+Integrantes: 
+
+Ricardo Tiga Molina, Adriana Marcela BUitrago Ardila 
 
 
 - Cual es el problema a tratar?
