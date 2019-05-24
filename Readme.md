@@ -1,5 +1,6 @@
 - Cual es el problema a tratar?
 
+
 - Por qué un mapa ayuda a resolverlo?
 
 - Descripción del mapa temático (Variable seleccionada, utilidad)
