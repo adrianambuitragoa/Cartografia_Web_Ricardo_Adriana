@@ -5,7 +5,7 @@ Integrantes: Ricardo Tiga Molina, Adriana Marcela BUitrago Ardila
 Se requiere dar a los productores de panela una herramienta que puedan utilizar para visualizar de una manera mas especifica los datos inherentes a la produccion de panela en los 14 departamentos productores.
 
 - Por qué un mapa ayuda a resolverlo?
-UN mapa es un elemento que muestra de manera grafica la informacion y mas facil para una persona poder interpretar, a diferencia de una tabla o un fichero de datos.
+UN mapa es un elemento que muestra de manera grafica la informacion y mas facil para una persona poder interpretarla, a diferencia de una tabla o un fichero de datos.
 
 
 - Descripción del mapa temático (Variable seleccionada, utilidad)
