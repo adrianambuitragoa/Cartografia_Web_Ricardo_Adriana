@@ -19,9 +19,12 @@ Se utiliza como metodo de clasificacion Cortes Naturales o (Jenks), se utilizan 
 
 - Listado de fuentes de datos seleccionadas (proveedor, enlace para descarga, descripción, procesamiento realizados
 
-Son datos recolectados en campo por los asistentes tecnicos en cada uno d elos departamentos
+Los datos son recolectados en campo por los asistentes tecnicos en cada uno de los departamentos(FEDEPANELA).
 
 - Descripción breve del procedimiento utilizado (plugins, extensiones, procesos, transformaciones de datos, etc)
 
+Los datos se asocian a cada uno de los poligonos por departamento mediante un "join" a las tablas de excel y se elaboran los mapas, los datos se representan en cantidades usando colores para mostrar los valores.
 
 - Ventajas / desventajas / dificultades / diferencias encontradas al Utilizar QGIS y Arcgis para el desarrollo del ejercicio 
+
+En la elaboracion de los mapas se utilizo arcgis y se exporto a formato pdf.
