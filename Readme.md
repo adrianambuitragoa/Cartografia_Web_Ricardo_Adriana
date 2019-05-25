@@ -30,3 +30,10 @@ Los datos se asocian a cada uno de los poligonos por departamento mediante un "j
 - Ventajas / desventajas / dificultades / diferencias encontradas al Utilizar QGIS y Arcgis para el desarrollo del ejercicio 
 
 En la elaboracion de los mapas se utilizo arcgis y se exporto a formato pdf.
+
+ARCGIS:
+
+QGIS:
+
+
+
