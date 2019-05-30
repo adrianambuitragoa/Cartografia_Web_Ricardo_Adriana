@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<body>
+  <!-- Placeholder for the widget -->
+
 <div id="TALLER 1"></div>
 
 Ricardo Tiga Molina (Código: 3101444)
