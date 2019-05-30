@@ -3,7 +3,7 @@
   <!-- Placeholder for the widget -->
 
 <div id="TALLER 1"></div>
-TALLER 1
+TALLER No 1
 
 Ricardo Tiga Molina (Código: 3101444)
 Adriana Marcela Buitrago Ardila (Código: 3101438)
