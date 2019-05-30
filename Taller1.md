@@ -1,14 +1,14 @@
-Integrantes Taller 1 : 
+<div id="TALLER 1"></div>
 
-Ricardo Tiga Molina (Codigo: 3101444)
-Adriana Marcela Buitrago Ardila (Codigo: 3101438)
+Ricardo Tiga Molina (Código: 3101444)
+Adriana Marcela Buitrago Ardila (Código: 3101438)
 
 
 - Cual es el problema a tratar?
-Se requiere dar a los productores de panela una herramienta que puedan utilizar para visualizar de una manera mas especifica los datos inherentes a la produccion de panela en los 14 departamentos productores.
+Se requiere dar a los productores de panela una herramienta que puedan utilizar para visualizar de una manera mas específica los datos inherentes a la producción de panela en los 14 departamentos productores.
 
 - Por qué un mapa ayuda a resolverlo?
-UN mapa es un elemento que muestra de manera grafica la información y mas facil para una persona poder interpretarla, a diferencia de una tabla o un fichero de datos.
+Un mapa es un elemento que muestra de manera gráfica la información y mas facil para una persona poder interpretarla, a diferencia de una tabla o un fichero de datos.
 
 - Descripción del mapa temático (Variable seleccionada, utilidad)
 
@@ -36,7 +36,7 @@ R(Rendimiento, Ton/Ha)= Produccion(Toneladas)/Area Cosechada(Hectarea)
 
 - Descripción breve del procedimiento utilizado (plugins, extensiones, procesos, transformaciones de datos, etc)
 
-Los datos se asocian a cada uno de los poligonos por departamento mediante un "join" a la tabla de excel de los datos de rendimiento y se elaboran los mapas, los datos se representan en cantidades usando colores para mostrar categorizacion en los valores.
+Los datos se asocian a cada uno de los poligonos por departamento mediante un "join" a la tabla de excel de los datos de rendimiento y se elaboran los mapas, los datos se representan en cantidades usando colores para mostrar categorización en los valores.
 
 - Ventajas / desventajas / dificultades / diferencias encontradas al Utilizar QGIS y Arcgis para el desarrollo del ejercicio 
 
@@ -50,4 +50,4 @@ Gracias a las funcionalidades que presenta el software ArcGis o QGis de crear, c
 Para el desarrollo del ejercicio se utilizó arcgis y se exporto a formato pdf, se tomo la opcion de utilizar arcgis, por la facilidad para exportar a pdf.
 
 
-
+Dificultades: Al momento de realizar el ejercicio, ninguna, ya que se maneja cierta experticia en el manejo y elaboración de mapas, pero una persona que no tiene la experiencia en el tema no las puede manejar de manera fácil o se demoraria al momento de la generación de los mapas.
