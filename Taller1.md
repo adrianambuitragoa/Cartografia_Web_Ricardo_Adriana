@@ -3,12 +3,13 @@
   <!-- Placeholder for the widget -->
 
 <div id="TALLER 1"></div>
+TALLER 1
 
 Ricardo Tiga Molina (Código: 3101444)
 Adriana Marcela Buitrago Ardila (Código: 3101438)
 
 
-- Cual es el problema a tratar?
+- Cuál es el problema a tratar?
 Se requiere dar a los productores de panela una herramienta que puedan utilizar para visualizar de una manera mas específica los datos inherentes a la producción de panela en los 14 departamentos productores.
 
 - Por qué un mapa ayuda a resolverlo?
@@ -16,7 +17,7 @@ Un mapa es un elemento que muestra de manera gráfica la información y mas faci
 
 - Descripción del mapa temático (Variable seleccionada, utilidad)
 
-El mapa desarrollado muestra la variable de Rendimiento en la elaboracion de la panela en los 14 departamentos productores del pais, esta se representa en Toneladas por hectarea.
+El mapa desarrollado muestra la variable de Rendimiento en la elaboracion de la panela en los 14 departamentos productores del pais, esta se representa en Toneladas por hectarea, es útil para representar el rendimiento en la elaboracion de caña panelera en este caso, en el territorio nacional.
 
 - Descripción de los métodos de clasificación seleccionados. Cual es mejor para la variable seleccionada? Por qué?
 
@@ -36,7 +37,7 @@ con las variables antes mecionadas se calcula el rendimiento en la produccion, e
 
 R(Rendimiento, Ton/Ha)= Produccion(Toneladas)/Area Cosechada(Hectarea)
 
-![\Large R=\frac{Producción(ton)}{Area Cosechada(Hectarea)}]
+![R=\frac{Producción(ton)}{Area Cosechada(Hectarea)}]
 
 - Descripción breve del procedimiento utilizado (plugins, extensiones, procesos, transformaciones de datos, etc)
 
