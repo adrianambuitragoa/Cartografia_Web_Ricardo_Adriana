@@ -13,10 +13,10 @@ Se requiere dar a los productores de panela una herramienta que puedan utilizar 
 Un mapa es un elemento que muestra de manera gráfica la información y mas facil para una persona poder interpretarla, a diferencia de una tabla o un fichero de datos.
 
 ## Descripción del mapa temático (Variable seleccionada, utilidad)
-El mapa desarrollado muestra la variable de Rendimiento en la elaboracion de la panela en los 14 departamentos productores del pais, esta se representa en Toneladas por hectarea, es útil para representar el rendimiento en la elaboracion de caña panelera en este caso, en el territorio nacional.
+El mapa desarrollado muestra la variable de Rendimiento en la elaboracion de la panela en los 14 departamentos productores del pais, esta se representa en Toneladas por hectarea, es útil para representar el rendimiento en la elaboración de caña panelera en este caso, en el territorio nacional.
 
 ## Descripción de los métodos de clasificación seleccionados. Cual es mejor para la variable seleccionada? Por qué?
-- Para el mapa 1, se utiliza como método de clasificación Cortes Naturales o (Jenks), se utilizan 5 con el fin de representar de una mejor manera los datos, es una aproximacion al rango de la muestra de los datos, se deben poner en rangos ya que es una mejor manera de analizar la información.
+- Para el mapa 1, se utiliza como método de clasificación Cortes Naturales o (Jenks), se utilizan 5 con el fin de representar de una mejor manera los datos, es una aproximación al rango de la muestra de los datos, se deben poner en rangos ya que es una mejor manera de analizar la información.
 
 - Para el mapa 2, se utiliza el método de clasificación Quantil, con el fin de realizar una comparación con el anterior, se puede  ver que el primero tiene una mejor representación de los datos, ya que toma cinco rangos.
 
