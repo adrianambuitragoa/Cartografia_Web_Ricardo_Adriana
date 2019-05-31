@@ -1,4 +1,4 @@
-# Tarea1
+# Tarea 1
 ## Integrantes: Ricardo Tiga Molina (Código: 3101444), Adriana Marcela Buitrago Ardila (Código: 3101438)
 
 # Preguntas
