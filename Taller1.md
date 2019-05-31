@@ -5,10 +5,13 @@
 ## ¿Cuál es el problema a tratar? 
 Se requiere dar a los productores de panela una herramienta que puedan utilizar para visualizar de una manera mas específica los datos inherentes a la producción de panela en los 14 departamentos productores.
 
-[Mapa de Pendientes QGIS](https://github.com/adrianambuitragoa/Cartografia_Web_Ricardo_Adriana/blob/master/Rendimiento_Colombia.pdf)
+[Mapa de Rendimiento QGIS](https://github.com/adrianambuitragoa/Cartografia_Web_Ricardo_Adriana/blob/master/Rendimiento_Colombia.pdf)
 
 ## Por qué un mapa ayuda a resolverlo?
 Un mapa es un elemento que muestra de manera gráfica la información y mas facil para una persona poder interpretarla, a diferencia de una tabla o un fichero de datos.
+
+![maxresdefault](https://github.com/adrianambuitragoa/Cartografia_Web_Ricardo_Adriana/blob/master/Rendimiento_Colombia.pdf)
+Fuente: MAGNUM T&C S.A.C. - Obtención de Pendientes y Calculo de Cotas
 
 ## Descripción del mapa temático (Variable seleccionada, utilidad)
 El mapa desarrollado muestra la variable de Rendimiento en la elaboracion de la panela en los 14 departamentos productores del pais, esta se representa en Toneladas por hectarea, es útil para representar el rendimiento en la elaboracion de caña panelera en este caso, en el territorio nacional.
