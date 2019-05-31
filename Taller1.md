@@ -24,8 +24,8 @@ El mapa desarrollado muestra la variable de Rendimiento en la elaboracion de la 
 Los datos son recolectados en campo por los asistentes técnicos en cada uno de los departamentos por FEDEPANELA.
 
 El procesamiento de los mismos se lleva a cabo mediante una hoja de calculo sencilla en la cual se tienen las variables siguientes:
-- Produccion de  panela por departamento(Toneladas)
-- Area Cosechada (Hectareas), esta se refiere al area cosechada por departamento de caña para la produccion panelera.
+- Producción de  panela por departamento (Toneladas)
+- Area Cosechada (Hectareas), esta se refiere al área cosechada por departamento de caña para la producción panelera.
 
 Con las variables antes mecionadas se calcula el rendimiento en la producción, el cual esta dado por la siguiente formula: 
 
