@@ -29,9 +29,8 @@ El procesamiento de los mismos se lleva a cabo mediante una hoja de calculo senc
 
 Con las variables antes mecionadas se calcula el rendimiento en la producción, el cual esta dado por la siguiente formula: 
 
-R(Rendimiento, Ton/Ha)= Produccion(Toneladas)/Area Cosechada(Hectarea)
+`R(Rendimiento, Ton/Ha)= Produccion(Toneladas)/Area Cosechada(Hectarea)`
 
-![R=\frac{Producción(ton)}{Area Cosechada(Hectarea)}]
 
 ## Descripción breve del procedimiento utilizado (plugins, extensiones, procesos, transformaciones de datos, etc)
 Los datos se asocian a cada uno de los poligonos por departamento mediante un "join" a la tabla de excel de los datos de rendimiento y se elaboran los mapas, los datos se representan en cantidades usando colores para mostrar categorización en los valores.
