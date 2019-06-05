@@ -8,8 +8,9 @@ Cual es el record de eventos de volcanes a lo largo del tiempo
 
 ## ¿ Por qué un mapa ayuda a resolverlo?
 
-Mediante mapas es mas facil analisas la informacion georreferenciada, y para nuestro caso evidencia los lugares donde a medida que pasa la linea del tiempo se han presentado los eventos.
+Mediante mapas es mas facil analizar la información georreferenciada, y para nuestro caso evidencia los lugares donde a medida que pasa la linea del tiempo se han presentado los eventos.
 
+![Volcanes Activos](https://adrianambuitragoa.github.io/Cartografia_Web_Ricardo_Adriana/)
 
 
 ## Descripción de los datos (tipos de geometrías, atributos, sistemas de referencia, urls para descarga de la información, etc)
