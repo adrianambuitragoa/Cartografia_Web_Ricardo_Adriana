@@ -4,8 +4,6 @@
 # Preguntas
 ## ¿Cuál es el problema a tratar? 
 
-[Mapa Interactivo Erupciones Volcánicas](https://adrianambuitragoa.carto.com/builder/185ed131-d4f3-4771-8278-b3196898261e/embed)
-
 ## ¿ Por qué un mapa ayuda a resolverlo?
 
 ## Descripción de los datos (tipos de geometrías, atributos, sistemas de referencia, urls para descarga de la información, etc)
@@ -22,4 +20,5 @@ Cada método debe presentarse en un mapa diferente
 
 ## Descripción breve del procedimiento utilizado para publicar los mapas en la web
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
-Urls públicos de los dos mapas interactivos
+Urls públicos de los dos mapas interactivos: 
+[Mapa Interactivo Erupciones Volcánicas](https://adrianambuitragoa.carto.com/builder/185ed131-d4f3-4771-8278-b3196898261e/embed)
