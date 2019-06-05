@@ -25,6 +25,7 @@ Se deben utilizar dos métodos diferentes para representar los datos.
 Cada método debe presentarse en un mapa diferente
 
 ## Descripción breve del procedimiento utilizado para publicar los mapas en la web
+
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 Urls públicos de los dos mapas interactivos: 
 [Mapa Interactivo Erupciones Volcánicas](https://adrianambuitragoa.carto.com/builder/185ed131-d4f3-4771-8278-b3196898261e/embed)
