@@ -32,6 +32,14 @@ Cada método debe presentarse en un mapa diferente
 
 ## Descripción breve del procedimiento utilizado para publicar los mapas en la web
 
+Procedimiento
+
+-	Inicialmente se buscan los datos los cuales permitan establecer la línea de tiempo y además que presenten los atributos para generar la espacialidad de la información.
+-	Se establece la información en el formato indicado para la carga a la plataforma de creación del mapa.
+-	Se establecen las ventanas adicionales en las cuales se pretende evidenciar unas estadísticas de los datos anexas a la información interactiva del mapa.
+-	Se genera la leyenda correspondiente de acuerdo a la información mostrada en el mapa 
+
+
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
 Se presenta como ventaja la facilidad de cargar informacion y poder distribuir sus analisis sin la necesidad de generar codigo, se presenta una interfase amigable para una persona que no tiene experiencia con la creacion de mapas, ademas permite una actualizacion eficaz de los datos.
