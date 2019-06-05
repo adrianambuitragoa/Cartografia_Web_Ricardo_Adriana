@@ -4,14 +4,29 @@
 # Preguntas
 ## ¿Cuál es el problema a tratar? 
 
-Cual es el record de eventos de volcanes a lo largo del tiempo 
+Cuál es el record de eventos de volcanes a lo largo del tiempo 
 
 ## ¿ Por qué un mapa ayuda a resolverlo?
 
-Mediante mapas es mas facil analizar la información georreferenciada, y para nuestro caso evidencia los lugares donde a medida que pasa la linea del tiempo se han presentado los eventos.
+Mediante mapas es mas facil analizar la información georreferenciada, y para nuestro caso evidencia los lugares donde a medida que pasa la linea del tiempo se han presentado los eventos volcánicos.
 
 
 ## Descripción de los datos (tipos de geometrías, atributos, sistemas de referencia, urls para descarga de la información, etc)
+
+Tipo de Geometria: Puntos.
+Atributos: Los atributos en el shapefile son: 
+
+Year: Año de la explosión.
+Month: Mes de la explosión.
+Day: Dia de la Explosión.
+Name: Nombre del Volcán. 
+Location: Localización del Volcán.
+Country: Pais en donde se encuentra.
+Latitude: Latitud.
+Longitude: Longitud.
+Elevation: Elevación.
+Status: Estado del Volcán.
+TOTAL_DEAT: Total de muertes. 
 
 Erupciones volcánicas significativas: 
 
