@@ -12,11 +12,11 @@ Mediante mapas es mas facil analizar la información georreferenciada, y para nu
 
 
 ## Descripción de los datos (tipos de geometrías, atributos, sistemas de referencia, urls para descarga de la información, etc)
-Atributos: Los atributos en el shapefile son: 
+
+La tabla de atributos con la descripción se detalla a continuación: 
 
 | Atributo| Descripción|
 | ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 Tipo de Geometria | Puntos.
 Year | Año de la explosión.
 Month | Mes de la explosión.
@@ -30,9 +30,11 @@ Elevation |Elevación.
 Status |Estado del Volcán.
 TOTAL_DEAT |Total de muertes. 
 
-Erupciones volcánicas significativas: 
+El sistema de referencia es: WGS 84 (World Geodetic System 1984)
 
-Lista global de más de 600 erupciones volcánicas ocurridas desde el año 4360 a. C. hasta el presente, según esta base de datos de erupciones volcánicas significativas. Se entiende por erupción significativa aquella que satisface al menos uno de los siguientes criterios: causa muertes, produce daños moderados (alrededor de USD 1 millón o más), tiene un índice de explosividad volcánica (VEI) de 6 o más, genera un tsunami o está asociada con un terremoto significativo.
+Los datos se obtuvieron de la pagina de Tableu en la seccion de datos abiertos y públicos, en el área de ciencias se selecciono el tema de interes, el cual es el siguiente:
+
+Erupciones volcánicas significativas:  Lista global de más de 600 erupciones volcánicas ocurridas desde el año 4360 a. C. hasta el presente, según esta base de datos de erupciones volcánicas significativas. Se entiende por erupción significativa aquella que satisface al menos uno de los siguientes criterios: causa muertes, produce daños moderados (alrededor de USD 1 millón o más), tiene un índice de explosividad volcánica (VEI) de 6 o más, genera un tsunami o está asociada con un terremoto significativo.
 
 Tipo de datos: Conjunto de datos (xlsx)
 
