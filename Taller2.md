@@ -12,21 +12,23 @@ Mediante mapas es mas facil analizar la información georreferenciada, y para nu
 
 
 ## Descripción de los datos (tipos de geometrías, atributos, sistemas de referencia, urls para descarga de la información, etc)
-
-Tipo de Geometria: Puntos.
 Atributos: Los atributos en el shapefile son: 
 
-Year: Año de la explosión.
-Month: Mes de la explosión.
-Day: Dia de la Explosión.
-Name: Nombre del Volcán. 
-Location: Localización del Volcán.
-Country: Pais en donde se encuentra.
-Latitude: Latitud.
-Longitude: Longitud.
-Elevation: Elevación.
-Status: Estado del Volcán.
-TOTAL_DEAT: Total de muertes. 
+| Atributo| Descripción|
+| ----- | ---- |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+Tipo de Geometria | Puntos.
+Year | Año de la explosión.
+Month | Mes de la explosión.
+Day | Dia de la Explosión.
+Name |Nombre del Volcán. 
+Location |Localización del Volcán.
+Country |Pais en donde se encuentra.
+Latitude |Latitud.
+Longitude |Longitud.
+Elevation |Elevación.
+Status |Estado del Volcán.
+TOTAL_DEAT |Total de muertes. 
 
 Erupciones volcánicas significativas: 
 
