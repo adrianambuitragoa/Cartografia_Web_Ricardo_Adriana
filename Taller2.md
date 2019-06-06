@@ -19,6 +19,7 @@ Erupciones volcánicas significativas:  Lista global de más de 600 erupciones v
 Tipo de datos: Conjunto de datos (xlsx)
 
 url de descarga de la información: https://public.tableau.com/es-es/s/resources?video=AZ-cy67GJck
+Estos se descargan en la pestaña: Datos de Muestra
 
 La tabla de atributos con la descripción se detalla a continuación: 
 
