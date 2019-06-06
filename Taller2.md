@@ -46,8 +46,7 @@ Al convertir los datos del archivo (xlsx) en "Arcgis" se selecciono el sistema d
 
 ## Descripción de los métodos / técnicas utilizadas para la visualización.
 
-Se deben utilizar dos métodos diferentes para representar los datos.
-Cada método debe presentarse en un mapa diferente
+Para la visualización del mapa se utilizó la agregación animada, herramienta de la plataforma "carto" que permite ver la informacion de manera dinamica, filtrada por la columna de Año de la explosión en la tabla de atributos del archivo "shape" cargado a la plataforma
 
 ## Descripción breve del procedimiento utilizado para publicar los mapas en la web
 
