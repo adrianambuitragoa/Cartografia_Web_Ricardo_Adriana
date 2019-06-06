@@ -4,7 +4,7 @@
 # Preguntas
 ## ¿Cuál es el problema a tratar? 
 
-Cuál es el record de eventos de volcanes a lo largo del tiempo 
+Cuál es el record de eventos de volcanes a lo largo del tiempo.
 
 ## ¿ Por qué un mapa ayuda a resolverlo?
 
