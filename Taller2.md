@@ -72,4 +72,5 @@ Urls del mapa interactivo:
 
 [Mapa Interactivo Erupciones Volcánicas](https://adrianambuitragoa.carto.com/builder/185ed131-d4f3-4771-8278-b3196898261e/embed)
 
+![Mapa Eventos Volcánicos en el mundo](url completa de la imagen)
 
