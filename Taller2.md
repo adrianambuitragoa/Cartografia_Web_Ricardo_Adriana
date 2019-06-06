@@ -41,10 +41,8 @@ El sistema de referencia es: WGS 84 (World Geodetic System 1984)
 
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
-Para la realización del ejercicio se utilizó la herramienta "Carto", la cual trae incorporado diversas funcionalidades para desarrollar un mapa web, entre las que están el análisis de datos integrado y diversos "Widgets" que permiten representar de una mejor manera la información que se quiere tratar, "pop-ups", "styles" y leyenda del mapa.
-
-Primero se analizáron los datos que se descargáron de la plataforma "tableau", estos venian en formato (xlsx); luego se procede a convertir en el software "Arcgis" estos datos a puntos con la información de la latitud y longitud y poder georeferenciar los datos, paso seguido, se adicionáron las capas a la plataforma "Carto" en la cual se empezó a editar la capa objetivo, alli se analizó lo siguiente:
-Como se queria un mapa dinámico, el cual mostrara los eventos sísmicos por años, se procede a editar la capa en la categoria "styles" en la parte de "Aggregation", aqui se muestra un mapa dinamico con la columna del año de la explosión y se termina de editar en la leyenda para poder ver mejor la información y que la persona que observe el mapa lo entienda facilmente.
+Primero se analizáron los datos que se descargáron de la plataforma "tableau", estos venian en formato (xlsx); luego se procede a convertir en el software "Arcgis" estos datos a puntos con la información de la latitud y longitud y poder georeferenciar los datos, paso seguido, se adicionáron las capas a la plataforma "Carto" en la cual se empezó a editar la capa objetivo.
+Al convertir los datos del archivo (xlsx) en "Arcgis" se selecciono el sistema de refrencia wgs 84, ya quelos datos venian con ese sistema.
 
 ## Descripción de los métodos / técnicas utilizadas para la visualización.
 
@@ -53,13 +51,25 @@ Cada método debe presentarse en un mapa diferente
 
 ## Descripción breve del procedimiento utilizado para publicar los mapas en la web
 
+Para la realización del ejercicio se utilizó la herramienta "Carto", la cual trae incorporado diversas funcionalidades para desarrollar un mapa web, entre las que están el análisis de datos integrado y diversos "Widgets" que permiten representar de una mejor manera la información que se quiere tratar, "pop-ups", "styles" y leyenda del mapa.
+Como se queria un mapa dinámico, el cual mostrara los eventos sísmicos por años, se procede a editar la capa en la categoria "styles" en la parte de "Aggregation", aqui se muestra un mapa dinamico con la columna del año de la explosión y se termina de editar en la leyenda para poder ver mejor la información y que la persona que observe el mapa lo entienda facilmente.
+Paso ultimo se procede a publicar el mapa y copiar el link para enlazar o mostrar al usuario final.
+
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
-Se presenta como ventaja la facilidad de cargar informacion y poder distribuir sus analisis sin la necesidad de generar codigo, se presenta una interfase amigable para una persona que no tiene experiencia con la creacion de mapas, ademas permite una actualizacion eficaz de los datos.
+- Ventajas:
 
+Se presenta como ventaja la facilidad de cargar informacion y poder distribuir sus analisis sin la necesidad de generar codigo, se    presenta una interfase amigable para una persona que no tiene experiencia con la creacion de mapas, ademas permite una actualizacion eficaz de los datos.
 Tambien se presenta una buena salida grafica amigable con lo necesitado para mostrar al usuario final y posee una interaccion en la web aceptable con lo requerido para la publicacion.
 
-Urls públicos de los dos mapas interactivos: 
+La principal  ventaja de utilizar herramientas en la nube es que se tiene una copia de seguridad en la misma, accediendo facil a la infromación, sin necesidad del computador en el cual este la información.
+
+- Desventajas: 
+
+Una posible dificultad es el acceso y conocimiento previo de la plataforma "Carto", ya que se necesita saber manejarla previamente. 
+
+Urls del mapa interactivo: 
+
 [Mapa Interactivo Erupciones Volcánicas](https://adrianambuitragoa.carto.com/builder/185ed131-d4f3-4771-8278-b3196898261e/embed)
 
 
