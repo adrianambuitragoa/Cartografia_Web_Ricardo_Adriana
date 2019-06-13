@@ -7,7 +7,7 @@
 
 ## ¿Cuál es el problema a tratar? 
 
-Se quiere representar en un "story maps" de Arcgis los eventos sismicos que causan inundaciones en el mundo desde 1985 hasta el presente.
+Se quiere representar en un "story maps" de Arcgis los eventos sísmicos que causan inundaciones en el mundo desde 1985 hasta el presente.
 
 ## ¿ Por qué una experiencia interactiva ayuda a resolverlo?
 
@@ -17,6 +17,7 @@ Se quiere representar en un "story maps" de Arcgis los eventos sismicos que caus
 Los datos se obtuvieron de la pagina de Tableu en la seccion de datos abiertos y públicos, en el área de ciencias se seleccionó el tema de interes, el cual es el siguiente:
 
 Inundaciones en todo el mundo desde 1985 hasta el presente, según el Dartmouth Flood Observatory, cada punto contiene datos relevantes sobre el sismo, que ocasionó las inundaciones,  los cuales comprenden: País, Magnitud del sismo, detalle de ubicación, Causa Principal, Severidad, Grado de daño e Inundación total.
+
 La tabla de atributos con la descripción se detalla a continuación: 
 
 | Atributo| Descripción|
@@ -36,9 +37,11 @@ Se quiere en primer lugar mostrar la capa de puntos en los lugares en donde ocur
 
 ## Descripción de las diferentes técnicas y métodos utilizados para la visualización de datos.
 
-Para la visualización de dat
+En la parte de visualización de datos, se hizo en "Arcgis online", en la opcion de "story maps", el cual permite combinar mapas con texto narrativo, imágenes y contenido multimedia, estos facilitan poder aprovechar la potencia de los mapas y la geografía para contar una historia.
+
 ## Descripción breve de las diferentes herramientas y procedimientos utilizadas para publicar el contenido en la web.
 
+Primero se analizáron los datos que se descargáron de la plataforma "tableau", estos venian en formato (xlsx); luego se procede a convertir en el software "Arcgis" estos datos a puntos con la información de la latitud y longitud y poder georeferenciar los datos, paso seguido, se adicionáron las capas a la plataforma "Arcgis online" en la cual se empezó a editar la capa objetivo y a hacer los respectivos mapas categorizados como se explicó anteriormente.
 
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
