@@ -11,7 +11,7 @@ Se quiere representar en un "story maps" de Arcgis los eventos sísmicos que cau
 
 ## ¿ Por qué una experiencia interactiva ayuda a resolverlo?
 
-Porque es una manera mas sencilla de llegar a transmitir una idea a un usuario final, porque visualmenente se identifican muchos varoles agregados de los datos trabajados y porque al momento de narrar una historia no solo se esta remitiendo a los datos sino a los analisis y a la contextualizacion tanto historica como del mismo fenomeno y asi de esta manera poder contarle al usuario final cual es el proposito especifico de un determinado mapa interactivo.
+Porque es una manera más sencilla de llegar a transmitir una idea a un usuario final, porque visualmenente se identifican muchos valores agregados de los datos trabajados y porque al momento de narrar una historia no solo se esta remitiendo a los datos sino a los analisis y a la contextualizacion tanto historica como del mismo fenomeno y asi de esta manera poder contarle al usuario final cual es el proposito especifico de un determinado mapa interactivo.
 
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
@@ -59,7 +59,7 @@ El usuario final por medio de la historia narrada y sus explicaciones puntuales 
 Es una ventaja poder establecer un dialogo un poco mas ameno para un usuario final y no dejar ese usuario a su libre interpretacion del mapa
 
 
-- DesVentajas: 
+- Desventajas: 
 
 Se debe tener acceso a una licencia online del software utilizado, en nuestro caso ArcGis-Online el cual permite realizar multiples tareas y poder implementar varias herramientas pero esto tiene un "COSTO".
 
