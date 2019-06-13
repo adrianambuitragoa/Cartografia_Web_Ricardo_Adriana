@@ -11,7 +11,7 @@ Se quiere representar en un "story maps" de Arcgis los eventos sísmicos que cau
 
 ## ¿ Por qué una experiencia interactiva ayuda a resolverlo?
 
-
+Porque es una manera mas sencilla de llegar a transmitir una idea a un usuario final, porque visualmenente se identifican muchos varoles agregados de los datos trabajados y porque al momento de narrar una historia no solo se esta remitiendo a los datos sino a los analisis y a la contextualizacion tanto historica como del mismo fenomeno y asi de esta manera poder contarle al usuario final cual es el proposito especifico de un determinado mapa interactivo.
 
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
@@ -46,9 +46,28 @@ Primero se analizáron los datos que se descargáron de la plataforma "tableau",
 
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
-- Ventajas: A una perdida total de información en el computador, en la nube están los datos cargados y listos para usarse.
+- Ventajas: 
+
+A una perdida total de información en el computador, en la nube están los datos cargados y listos para usarse.
+
+Se establece la informacion de forma clara y precisa y se le da al usuario final un plus de informacion aparte del mapa interactivo, se embuelve en una historia y se lleva a un analisis especifico
+
+Se generan analisis estadisticos espaciales y de una forma visual de una manera interactiva y de gran facilidad a la hora de generarlas como a la hora de interpretarlas, por tal motivo es una ventaja para el manejo de datos.
+
+El usuario final por medio de la historia narrada y sus explicaciones puntuales entiende mucho mas facil lo representado en el mapa
+
+Es una ventaja poder establecer un dialogo un poco mas ameno para un usuario final y no dejar ese usuario a su libre interpretacion del mapa
+
 
 - DesVentajas: 
+
+Se debe tener acceso a una licencia online del software utilizado, en nuestro caso ArcGis-Online el cual permite realizar multiples tareas y poder implementar varias herramientas pero esto tiene un "COSTO".
+
+El acceso a las herramientas de generacion en este caso son reducidas por los costos de licencias.
+
+La historia es generada pensada en un publico o usuario final especifico y es narrada de una forma tecnica lo cual sesga la interpretabilidad de la informacion, sin embargo se genera una historia la cual permita tener un contexto de la informacion y asi poder llegar a mas publico, sin embargo se debe tener en cuenta que no es facil explicar brevemente un fenomeno y que todas las personas con sus diferentes conocimientos logren llegar a un analisis ecuanime como lo desea el autor
+
+
 
 ## Url público de la experiencia interactiva: https://unimilitar.maps.arcgis.com/apps/MapSeries/index.html?appid=34ff5cbad9914ebc8647c66e253fd252
 
