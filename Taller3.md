@@ -12,6 +12,7 @@ Se quiere representar en un "story maps" de Arcgis los eventos sísmicos que cau
 ## ¿ Por qué una experiencia interactiva ayuda a resolverlo?
 
 
+
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
 Los datos se obtuvieron de la pagina de "Tableu" en la sección de datos abiertos y públicos, en el área de ciencias se seleccionó el tema de interes, el cual es el siguiente:
@@ -45,7 +46,7 @@ Primero se analizáron los datos que se descargáron de la plataforma "tableau",
 
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
-- Ventajas: A una perdida total de información en el computador, en la nube estan los datos cargados y listos para usarse.
+- Ventajas: A una perdida total de información en el computador, en la nube están los datos cargados y listos para usarse.
 
 - DesVentajas: 
 
