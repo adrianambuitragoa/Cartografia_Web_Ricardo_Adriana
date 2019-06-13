@@ -14,7 +14,7 @@ Se quiere representar en un "story maps" de Arcgis los eventos sísmicos que cau
 
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
-Los datos se obtuvieron de la pagina de Tableu en la seccion de datos abiertos y públicos, en el área de ciencias se seleccionó el tema de interes, el cual es el siguiente:
+Los datos se obtuvieron de la pagina de "Tableu" en la sección de datos abiertos y públicos, en el área de ciencias se seleccionó el tema de interes, el cual es el siguiente:
 
 Inundaciones en todo el mundo desde 1985 hasta el presente, según el Dartmouth Flood Observatory, cada punto contiene datos relevantes sobre el sismo, que ocasionó las inundaciones,  los cuales comprenden: País, Magnitud del sismo, detalle de ubicación, Causa Principal, Severidad, Grado de daño e Inundación total.
 
@@ -33,15 +33,15 @@ Latitude |Latitud.
 Longitude |Longitud.
 
 Para la realización del "story map" en Arcgis online, se seleccionaron diversos atributos, los cuales muestran la información de una mejor manera y expone la idea de los autores de manera tal se plantea inicialmente.
-Se quiere en primer lugar mostrar la capa de puntos en los lugares en donde ocurrieron los sismos y posteriormente las inundaciones, esta información está plasmada en la capa uno del mapa interáctivo, en la capa dos se quiere mostrar la magnitud, la cual se agrega como atributo principal y se realiza un mapa de calor, mostrando en la leyenda el grado de magnitud, ya sea alto o bajo, representado en la paleta de colores seleccionada, en la capa tres se quiere mostrar la consecuencia de los sismos para cada una de las ubicaciones, aquí se realiza una categorización por el atributo  "Maincause", que señala los fenomenos tras la ocurrencia del sismo y por ultimose explica mediante un video embebido en la pagina el centro de investigación que realiza el monitorea de las variables de inundaciones en el mundo.
+Se quiere en primer lugar mostrar la capa de puntos en los lugares en donde ocurrieron los sismos y posteriormente las inundaciones, esta información está plasmada en la capa uno de los mapas interáctivos; en la capa dos se quiere mostrar la magnitud, la cual se agrega como atributo principal y se realiza un mapa de calor, mostrando en la leyenda el grado de magnitud, ya sea alto o bajo, representado en la paleta de colores seleccionada; en la capa tres se quiere mostrar la consecuencia de los sismos para cada una de las ubicaciones, aquí se realiza una categorización por el atributo  "Maincause", que señala los fenomenos tras la ocurrencia del sismo y por ultimo se explica mediante un video embebido en la pagina el centro de investigación que realiza el monitoreo de las variables de inundaciones en el mundo.
 
 ## Descripción de las diferentes técnicas y métodos utilizados para la visualización de datos.
 
-En la parte de visualización de datos, se hizo en "Arcgis online", en la opcion de "story maps", el cual permite combinar mapas con texto narrativo, imágenes y contenido multimedia, estos facilitan poder aprovechar la potencia de los mapas y la geografía para contar una historia.
+En la parte de visualización de datos, se hizo en "Arcgis online" y se uso la herramienta  "story maps", la cual permite combinar mapas con texto narrativo, imágenes y contenido multimedia, estos facilitan poder aprovechar la potencia de los mapas y la geografía para contar una historia.
 
 ## Descripción breve de las diferentes herramientas y procedimientos utilizadas para publicar el contenido en la web.
 
-Primero se analizáron los datos que se descargáron de la plataforma "tableau", estos venian en formato (xlsx); luego se procede a convertir en el software "Arcgis" estos datos a puntos con la información de la latitud y longitud y poder georeferenciar los datos, paso seguido, se adicionáron las capas a la plataforma "Arcgis online" en la cual se empezó a editar la capa objetivo y a hacer los respectivos mapas categorizados como se explicó anteriormente.
+Primero se analizáron los datos que se descargáron de la plataforma "tableau", estos venian en formato (xlsx); luego se procede a convertir en el software "Arcgis" estos datos a puntos con la información de la latitud y longitud y poder georeferenciar los datos, paso seguido, se adicionáron las capas a la plataforma "Arcgis online" en la parte de contenido en la cual se empezó a editar la capa objetivo y a hacer los respectivos mapas categorizados como se explicó anteriormente para luego asociarlo a cada capa objetivo en el "Story Maps".
 
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
