@@ -29,6 +29,9 @@ Severity |Severidad.
 Latitude |Latitud.
 Longitude |Longitud.
 
+Para la realización del "story map" en Arcgis online, se seleccionaron diversos atributos, los cuales muestran la información de una mejor manera y expone la idea de los autores de manera tal se plantea inicialmente.
+Se quiere en primer lugar mostrar la capa de puntos en los lugares en donde ocurrieron los sismos y posteriormente las inundaciones, esta infromación esta plasmada en la capa 1 del mapa interáctivo, en la capa dos se quiere mostrar la magnitud, la cual se agrega como atributo principal y se realiza un mapa de calor, mostrando en la leyenda el grado de magnitud, ya sea alto o bajo, representado en la paleta de colores seleccionada, En la capa tres se quiero mostrar la consecuencia de los sismos para cada una de las ubicaciones, aqui se realiza una categorizacion por el atributo de "Maincause", que señala los fenomenos tras la ocurrencia del sismo y por ultimose explica mediante un video embebido en la pagina el centro de investigación que realiza el monitorea de las variables de inundaciones en el mundo.
+
 ## Descripción de las diferentes técnicas y métodos utilizados para la visualización de datos.
 
 
