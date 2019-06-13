@@ -15,6 +15,19 @@ Se quiere representar en un "story maps" de Arcgis los eventos sismicos que caus
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
 El siguiente mapa muestra las  Inundaciones en todo el mundo desde 1985 hasta el presente, según el Dartmouth Flood Observatory, cada punto contiene datos relevantes sobre el sismo, que ocasionó las inundaciones,  los cuales comprenden: País, Magnitud del sismo, detalle de ubicación, Causa Principal, Severidad, Grado de daño e Inundación total.
+La tabla de atributos con la descripción se detalla a continuación: 
+
+| Atributo| Descripción|
+| ----- | ---- |
+Tipo de Geometria | Puntos.
+Magnitude | Magnitud del sismo.
+Maincause | Causa Principal de la Inundación.
+Dead | Numero de muertes.
+Displaced |Número de desplazamientos. 
+Damage (USD) |Dañ, representado en dolares.
+Severity |Severidad.
+Latitude |Latitud.
+Longitude |Longitud.
 
 ## Descripción de las diferentes técnicas y métodos utilizados para la visualización de datos.
 
