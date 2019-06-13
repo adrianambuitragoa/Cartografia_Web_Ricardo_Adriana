@@ -24,7 +24,7 @@ Magnitude | Magnitud del sismo.
 Maincause | Causa Principal de la Inundación.
 Dead | Numero de muertes.
 Displaced |Número de desplazamientos. 
-Damage (USD) |Dañ, representado en dolares.
+Damage (USD) |Daño, representado en dolares.
 Severity |Severidad.
 Latitude |Latitud.
 Longitude |Longitud.
@@ -38,3 +38,6 @@ Longitude |Longitud.
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
 ## Url público de la experiencia interactiva: https://unimilitar.maps.arcgis.com/apps/MapSeries/index.html?appid=34ff5cbad9914ebc8647c66e253fd252
+
+![Mapa Eventos Sísmicos en el mundo](https://github.com/adrianambuitragoa/Cartografia_Web_Ricardo_Adriana/blob/master/Mapa_Inundaciones_Ricardo_Adriana.png)
+
