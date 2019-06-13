@@ -7,6 +7,7 @@
 
 ## ¿Cuál es el problema a tratar? 
 
+Se quiere representar en un "story maps" de Arcgis los eventos sismicos que causan inundaciones en el mundo desde 1985 hasta el presente.
 
 ## ¿ Por qué una experiencia interactiva ayuda a resolverlo?
 
