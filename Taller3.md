@@ -13,6 +13,7 @@
 
 ## Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
 
+El siguiente mapa muestra las  Inundaciones en todo el mundo desde 1985 hasta el presente, según el Dartmouth Flood Observatory, cada punto contiene datos relevantes sobre el sismo, que ocasionó las inundaciones,  los cuales comprenden: País, Magnitud del sismo, detalle de ubicación, Causa Principal, Severidad, Grado de daño e Inundación total.
 
 ## Descripción de las diferentes técnicas y métodos utilizados para la visualización de datos.
 
