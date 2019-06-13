@@ -45,8 +45,9 @@ Primero se analizáron los datos que se descargáron de la plataforma "tableau",
 
 ## Ventajas / desventajas / dificultades de la publicación de mapas utilizando herramientas en la nube respecto al software desktop.
 
+- Ventajas: A una perdida total de información en el computador, en la nube estan los datos cargados y listos para usarse.
 
-
+- DesVentajas: 
 
 ## Url público de la experiencia interactiva: https://unimilitar.maps.arcgis.com/apps/MapSeries/index.html?appid=34ff5cbad9914ebc8647c66e253fd252
 
