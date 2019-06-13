@@ -26,17 +26,15 @@ La tabla de atributos con la descripción se detalla a continuación:
 | Atributo| Descripción|
 | ----- | ---- |
 Tipo de Geometria | Puntos.
-Year | Año de la explosión.
-Month | Mes de la explosión.
-Day | Dia de la Explosión.
-Name |Nombre del Volcán. 
-Location |Localización del Volcán.
-Country |Pais en donde se encuentra.
+Magnitude | Magnitud del sismo.
+Maincause | Causa Principal de la Inundación.
+Dead | Numero de muertes.
+Displaced |Número de desplazamientos. 
+Damage (USD) |Dañ, representado en dolares.
+Severity |Severidad.
 Latitude |Latitud.
 Longitude |Longitud.
-Elevation |Elevación.
-Status |Estado del Volcán.
-TOTAL_DEAT |Total de muertes. 
+
 
 El sistema de referencia es: WGS 84 (World Geodetic System 1984)
 
