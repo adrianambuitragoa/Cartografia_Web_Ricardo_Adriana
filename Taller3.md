@@ -50,11 +50,11 @@ Primero se analizáron los datos que se descargáron de la plataforma "tableau",
 
 A una perdida total de información en el computador, en la nube están los datos cargados y listos para usarse.
 
-Se establece la informacion de forma clara y precisa y se le da al usuario final un plus de informacion aparte del mapa interactivo, se embuelve en una historia y se lleva a un analisis especifico
+Se establece la informacion de forma clara y precisa y se le da al usuario final un plus de informacion aparte del mapa interactivo, se embuelve en una historia y se lleva a un analisis específico
 
-Se generan analisis estadisticos espaciales y de una forma visual de una manera interactiva y de gran facilidad a la hora de generarlas como a la hora de interpretarlas, por tal motivo es una ventaja para el manejo de datos.
+Se generan analisis estadísticos espaciales y de una forma visual de una manera interactiva y de gran facilidad a la hora de generarlas como a la hora de interpretarlas, por tal motivo es una ventaja para el manejo de datos.
 
-El usuario final por medio de la historia narrada y sus explicaciones puntuales entiende mucho mas facil lo representado en el mapa
+El usuario final por medio de la historia narrada y sus explicaciones puntuales entiende mucho mas fácil lo representado en el mapa
 
 Es una ventaja poder establecer un dialogo un poco mas ameno para un usuario final y no dejar ese usuario a su libre interpretacion del mapa
 
@@ -65,8 +65,7 @@ Se debe tener acceso a una licencia online del software utilizado, en nuestro ca
 
 El acceso a las herramientas de generacion en este caso son reducidas por los costos de licencias.
 
-La historia es generada pensada en un publico o usuario final especifico y es narrada de una forma tecnica lo cual sesga la interpretabilidad de la informacion, sin embargo se genera una historia la cual permita tener un contexto de la informacion y asi poder llegar a mas publico, sin embargo se debe tener en cuenta que no es facil explicar brevemente un fenomeno y que todas las personas con sus diferentes conocimientos logren llegar a un analisis ecuanime como lo desea el autor
-
+La historia es generada pensada en un publico o usuario final específico y es narrada de una forma técnica lo cual sesga la interpretabilidad de la información, sin embargo se genera una historia la cual permita tener un contexto de la información y asi poder llegar a mas público, sin embargo se debe tener en cuenta que no es fácil explicar brevemente un fenomeno y que todas las personas con sus diferentes conocimientos logren llegar a un analisis ecuánime como lo desea el autor.
 
 
 ## Url público de la experiencia interactiva: https://unimilitar.maps.arcgis.com/apps/MapSeries/index.html?appid=34ff5cbad9914ebc8647c66e253fd252
